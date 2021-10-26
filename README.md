@@ -5,7 +5,7 @@
 
 I am a Hardcore internet enthusiast, I live with the internet even eat food with the internet. and I am always here to help you to build a robust web product through my Full Stack Web Development Skills.
 
-#### Technology Skills 
+#### Skills 
 - Javascript.
 - HTML. 
 - CSS.
