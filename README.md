@@ -1,5 +1,7 @@
 ### Hi I'm Chandan 👋
 
+![chandan](https://media-exp1.licdn.com/dms/image/C4D16AQGiVXiJ9QFNJQ/profile-displaybackgroundimage-shrink_200_800/0/1635180779632?e=1640822400&v=beta&t=BuUlZUvlq3Vf9NL7_svGHeno__XOoey0Kzdi8gt3AMM)
+
 <!--
 **stockchandu/STockChandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
