@@ -13,7 +13,7 @@ I am a Hardcore internet enthusiast, I live with the internet even eat food with
 - ⚡ Fun fact: I ❤️ to play Volleyball  but I don't watch volleyball
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-mern.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chandan.netlify.app/)
 
 ## 🛠 Languages, Framework , Library and Tools 
 <p>
