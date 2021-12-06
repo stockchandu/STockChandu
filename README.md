@@ -15,6 +15,16 @@ I am a Hardcore internet enthusiast, I live with the internet even eat food with
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-chandan.netlify.app/)
 
+
+## 🤝 Let's connect : You can find me everywhere 🌍
+
+<p>
+ <a href="https://www.linkedin.com/in/chandan-kumar-mallick-0b926b187" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="https://twitter.com/CHANDAN30051084" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="https://www.facebook.com/malikchandankumar.malikchandankumar.5/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png"  width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+ <a href="https://www.instagram.com/markeechandu/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"  width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
+
 ## 🛠 Languages, Framework , Library and Tools 
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,14 +47,6 @@ I am a Hardcore internet enthusiast, I live with the internet even eat food with
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=stockchandu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stockchandu&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-## 🤝 Let's connect : You can find me everywhere 🌍
-
-<p>
- <a href="https://www.linkedin.com/in/chandan-kumar-mallick-0b926b187" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
- <a href="https://twitter.com/CHANDAN30051084" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
- <a href="https://www.facebook.com/malikchandankumar.malikchandankumar.5/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-128.png"  width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
- <a href="https://www.instagram.com/markeechandu/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"  width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-</p>
 
 
 
