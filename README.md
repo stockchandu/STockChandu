@@ -7,8 +7,8 @@
 
 I am a Hardcore internet enthusiast, I live with the internet even eat food with the internet. and I am always here to help you to build a robust web product through my Full Stack Web Development Skills.
 
-- 🔭 I’m currently upgrading my existing project
-- 🌱 I’m currently learning Python ,Typescript and NextJS.
+- 🔭 I’m currently upgrading my skill.
+- 🌱 I’m currently learning Typescript and NextJS.
 - 👯 I always looking to collaborate on interesting project
 - ⚡ Fun fact: I ❤️ to play Volleyball  but I don't watch volleyball
 
