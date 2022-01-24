@@ -5,7 +5,7 @@
 </p>
 
 
-I am always here to help you to build a robust web product through my Full Stack Web Development Skills.
+I am always here to help you to build a robust web product through my full stack web development skills.
 
 - 🔭 I’m currently upgrading my skill.
 - 🌱 I’m currently learning Typescript and NextJS.
