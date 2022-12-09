@@ -10,7 +10,6 @@ I am always here to help you to build a robust web product through my full stack
 - 🔭 I’m currently upgrading my skill.
 - 🌱 I’m currently learning Vue JS  and GraphQL.
 - 👯 I always looking to collaborate on interesting project
-- ⚡ Fun fact: I ❤️ to play Volleyball  but I don't watch volleyball
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-kumar-mallick-portfolio.netlify.app/)
