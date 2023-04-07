@@ -8,7 +8,7 @@
 I am always here to help you to build a robust web product through my full stack web development skills.
 
 - 🔭 I’m currently upgrading my skill.
-- 🌱 I’m currently learning Vue JS  and GraphQL.
+- 🌱 I’m currently Svelte , Flutter .
 - 👯 I always looking to collaborate on interesting project
 
 
