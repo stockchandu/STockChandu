@@ -7,7 +7,7 @@
 
 I am always here to help you to build a robust web product through my full stack web development skills.
 
-- 🔭 I’m currently learning Svelte ❤️ and Flutter .
+- 🔭 I’m currently learning Svelte  and Flutter .
 - 👯 I always looking to collaborate on interesting project
 
 
