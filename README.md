@@ -5,23 +5,22 @@
 </p>
 
 
-I am always here to help you to build a robust web product through my full stack web development skills.
+I am always here to help you to build a robust web product through my full-stack web development skills.
 
-- 🔭 I’m currently learning Svelte  and Flutter .
-- 👯 I always looking to collaborate on interesting project
+- 🔭 I’m currently upgrading skills.
+- 👯 I always looking to collaborate on an interesting project
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-kumar-mallick-portfolio.netlify.app/)
 
 
-## 🤝 Let's connect : You can find me everywhere 🌍
-
+## 🤝 Let's connect 
 <p>
  <a href="https://www.linkedin.com/in/chandan-kumar-mallick-0b926b187" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
  <a href="https://twitter.com/CHANDAN30051084" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
 
-## 🛠 Languages, Framework , Library and Tools 
+## 🛠 Languages, Framework, Library, and Tools 
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw1sQZ3M7J7QeevHS9re5HeI&ust=1686201594912000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOjv-8q0sP8CFQAAAAAdAAAAABAD" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
