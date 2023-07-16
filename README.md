@@ -5,10 +5,10 @@
 </p>
 
 
-I am always here to help you to build a robust web product through my full-stack web development skills.
+I am an experienced MERN stack developer with experience in designing and developing web applications using ReactJS, NodeJS, Express, and MongoDB. but am not restricted to any specific technology. I consider myself a lifelong student, I never ever stop myself to learn new technology. Proficient in front-end and back-end development, API integrations, and responsive web design.
 
-- 🔭 I’m currently upgrading skills.
-- 👯 I always looking to collaborate on an interesting project
+- 🔭 I’m currently upgrading my skills.
+- 👯 I always looking to collaborate on an interesting project.
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-kumar-mallick-portfolio.netlify.app/)
@@ -27,7 +27,7 @@ I am always here to help you to build a robust web product through my full-stack
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--RtwxcNhF--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/http://timrijkse.nl/images/vue-full-guide.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://w7.pngwing.com/pngs/206/645/png-transparent-sass-logos-and-brands-line-filled-icon.png" alt="sass" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-128.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://img.icons8.com/color/452/mongodb.png" alt="react" width="30" height="30"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
