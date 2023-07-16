@@ -7,10 +7,9 @@
 
 I am an experienced MERN stack developer with experience in designing and developing web applications using ReactJS, NodeJS, Express, and MongoDB. but am not restricted to any specific technology. I consider myself a lifelong student, I never ever stop myself to learn new technology. Proficient in front-end and back-end development, API integrations, and responsive web design.
 
-- 🔭 I’m currently improving my problem solving skills.
+- 🔭 I’m currently improving my problem-solving skills.
 - 👯 I always looking to collaborate on an interesting project.
 - 💬 Ask me about Javascript, React.js, Node.js, and Express.js.
-- 
 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-k-malik.netlify.app/)
