@@ -11,7 +11,7 @@ I am an experienced MERN stack developer with experience in designing and develo
 - 👯 I always looking to collaborate on an interesting project.
 
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-kumar-mallick-portfolio.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chandan-k-malik.netlify.app/)
 
 
 ## 🤝 Let's connect 
